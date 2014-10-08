@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../traits/apress/apress-traits/.idea/apress-traits.iml" filepath="$PROJECT_DIR$/../traits/apress/apress-traits/.idea/apress-traits.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sti.iml" filepath="$PROJECT_DIR$/.idea/sti.iml" />
     </modules>
   </component>
